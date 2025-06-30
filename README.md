@@ -34,7 +34,7 @@ organized_project/
 │   └── utils/                            # Utility functions
 ├── config/
 │   └── config.py                         # Centralized configuration
-├── aki_prediction.py                      # Main prediction notebook (as .py)
+├── research_findings.ipynb               # Main notebook, please download and open in google colab!
 └── requirements.txt                       # Project dependencies
 ```
 
