@@ -101,8 +101,6 @@ python train_model.py --input_hours 24 --horizon 12
 
 ## 📈 Performance Metrics
 
-## 📈 Performance Metrics
-
 | Input→Horizon | Event Ratio | AUPRC (W2V) | AUPRC (Random) | AUPRC Gain | AUROC (W2V) | AUROC (Random) | AUROC Gain |
 |--------------|-------------|-------------|----------------|------------|-------------|----------------|------------|
 | 12h→6h       | 4.9%        | 0.671       | 0.596         | +12.6%     | 0.936       | 0.904         | +3.5%      |
