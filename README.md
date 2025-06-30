@@ -109,17 +109,6 @@ python train_model.py --input_hours 24 --horizon 12
 | 24h→6h       | 0.715       | 0.682         | +4.8%       |
 | 24h→12h      | 0.761       | 0.731         | +4.2%       |
 
-## 📚 Citation
-
-If you use this code in your research, please cite:
-```bibtex
-@article{zosmanovich2024treating,
-  title={Treating ICU Measurements as Language: Word2Vec Token Embeddings Boost Early AKI Prediction},
-  author={Zosmanovich, Eldar},
-  journal={[Journal Name]},
-  year={2024}
-}
-```
 
 ## 📝 License
 
