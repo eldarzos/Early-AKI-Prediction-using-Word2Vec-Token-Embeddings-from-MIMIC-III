@@ -2,6 +2,8 @@
 
 This repository contains the implementation of a novel approach to early Acute Kidney Injury (AKI) prediction in ICU settings using Word2Vec token embeddings and LSTM neural networks. The approach treats ICU measurements as a language, enabling distributional semantics to replace manual feature engineering.
 
+## Colab Notebook: https://colab.research.google.com/drive/1a7q_joSQ4CzUt5ehpsxlNDP4yQYONGM4?usp=sharing
+
 ## 📊 Key Results
 
 - **Peak Performance**: 24h context with 12h prediction horizon achieved 0.761 AUPRC, a 4.2% improvement over baseline
