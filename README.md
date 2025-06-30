@@ -5,7 +5,7 @@ This repository contains the implementation of a novel approach to early Acute K
 ## 📊 Key Results
 
 - **Peak Performance**: 24h context with 12h prediction horizon achieved 0.761 AUPRC, a 4.2% improvement over baseline
-- **Universal Gains**: Word2Vec provided significant AUPRC improvements across all tasks (+4.2% to +11.8%)
+- **Universal Gains**: Word2Vec provided significant AUPRC improvements across all tasks (+4.2% to +12.6%)
 - **Time-Critical Windows**: Even for urgent 6-hour predictions, pretrained embeddings lifted AUPRC above 0.67
 - **Clinical Interpretability**: t-SNE projections revealed clinically coherent clusters (cardiovascular, renal, electrolyte, etc.)
 
