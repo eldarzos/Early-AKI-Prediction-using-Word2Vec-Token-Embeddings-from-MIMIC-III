@@ -117,5 +117,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🙏 Acknowledgments
 
 - MIMIC-III database and its contributors
-- Clinical staff who generated the underlying data
 - OpenAI's GPT-4o for research support 
